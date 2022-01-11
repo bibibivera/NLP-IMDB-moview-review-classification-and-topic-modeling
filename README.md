@@ -1,4 +1,4 @@
-# NLP IMDB moview review sentiment prediction and topic modeling
+# NLP Project: IMDB moview review sentiment prediction and topic modeling
 
 * used IMDB movie dataset from Kaggle
 * performed sentiment prediction and topic modeling using NLP text analysis techniques
